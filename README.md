@@ -3,8 +3,6 @@ Site web de la société RB-Charpenterie
 # ***TODO :***
 
 ### Sam :
-- test
-- déploiement auto git codeship
 - statistique des visites
 - contact mail
 
