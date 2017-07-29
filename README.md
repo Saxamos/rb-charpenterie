@@ -1,14 +1,13 @@
+# rb-charpenterie
+
 Site web de la société RB-Charpenterie
 
-# ***TODO :***
+## ***TODO :***
 
 ### Sam :
 - statistique des visites
 - contact mail
 
 ### Ben :
-- ordre des boutons + taille (cacher certains?)
-- icon diamant (index.html ligne 20) => http://fontawesome.io/icons/
-- couleur et contenu texte (mail/tel/adresse + lien_maps & icon?)
-- URL vers les pages + URL *about* pour fille célib?
-- mettre auteur / inspiration?
+- URL *about* pour fille célib a changer
+- icon l20 voir si on peut mettre logo

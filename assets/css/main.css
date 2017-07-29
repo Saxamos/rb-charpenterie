@@ -1571,6 +1571,15 @@
 			text-transform: uppercase;
 		}
 
+		#footer .cood {
+			letter-spacing: 0.2rem;
+			font-size: 0.9rem;
+			opacity: 1;
+			margin-bottom: 1;
+			/*text-transform: uppercase;*/
+			white-space:pre;
+		}
+
 		body.is-article-visible #footer {
 			-moz-transform: scale(0.95);
 			-webkit-transform: scale(0.95);
