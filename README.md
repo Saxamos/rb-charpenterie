@@ -3,6 +3,8 @@
 Site web de la société RB-Charpenterie
 
 ## ***TODO :***
+- sapin => logo
+- contact => carte visite puis envoie Email
 
 ### Sam :
 - URL *about* pour fille célib a changer
