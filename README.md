@@ -3,13 +3,8 @@
 Site web de la société RB-Charpenterie
 
 ## ***TODO :***
-- sapin => logo
 - contact => carte visite puis envoie Email
-
-### Sam :
-- URL *about* pour fille célib a changer
-- icon l20 voir si on peut mettre logo
+- CHANGER LE LOGOS (sapin => logo) ET LA PHOTO DE PAGE D’ACCUEIL
+- Rajouter les coordonnées de l’entreprise (en gros la carte de visite)
+- Mettre à jour les coood en bas de page principale
 - statistique des visites
-- contact mail
-
-### Ben :
