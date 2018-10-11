@@ -8,3 +8,5 @@ Site web de la société RB-Charpenterie
 - Rajouter les coordonnées de l’entreprise (en gros la carte de visite)
 - Mettre à jour les coood en bas de page principale
 - statistique des visites
+
+thanks to https://ftploy.com/ and <ref du site html5>
